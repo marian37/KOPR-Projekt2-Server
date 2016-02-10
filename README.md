@@ -1,5 +1,5 @@
 # KOPR-Projekt2-Server
-Moja implementácia **server**a pre projekt na predmet **KOPR** (Konkurentné programovanie) vyučovaný na [ics.upjs.sk](http://www.ics.upjs.sk/)
+Moja implementácia **server**u pre projekt na predmet **KOPR** (Konkurentné programovanie) vyučovaný na [ics.upjs.sk](http://www.ics.upjs.sk/)
 
 Projekt používa lokálnu MySQL databázu.
 
